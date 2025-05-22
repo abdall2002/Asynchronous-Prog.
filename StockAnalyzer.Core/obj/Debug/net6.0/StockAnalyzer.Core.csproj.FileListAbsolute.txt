@@ -1,0 +1,13 @@
+C:\Users\training.3\Downloads\Asynchronous\02\demos\Windows\Start_Here\StockAnalyzer.Core\bin\Debug\net6.0\StockAnalyzer.Core.deps.json
+C:\Users\training.3\Downloads\Asynchronous\02\demos\Windows\Start_Here\StockAnalyzer.Core\bin\Debug\net6.0\StockAnalyzer.Core.dll
+C:\Users\training.3\Downloads\Asynchronous\02\demos\Windows\Start_Here\StockAnalyzer.Core\bin\Debug\net6.0\StockAnalyzer.Core.pdb
+C:\Users\training.3\Downloads\Asynchronous\02\demos\Windows\Start_Here\StockAnalyzer.Core\obj\Debug\net6.0\StockAnalyzer.Core.csproj.AssemblyReference.cache
+C:\Users\training.3\Downloads\Asynchronous\02\demos\Windows\Start_Here\StockAnalyzer.Core\obj\Debug\net6.0\StockAnalyzer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\training.3\Downloads\Asynchronous\02\demos\Windows\Start_Here\StockAnalyzer.Core\obj\Debug\net6.0\StockAnalyzer.Core.AssemblyInfoInputs.cache
+C:\Users\training.3\Downloads\Asynchronous\02\demos\Windows\Start_Here\StockAnalyzer.Core\obj\Debug\net6.0\StockAnalyzer.Core.AssemblyInfo.cs
+C:\Users\training.3\Downloads\Asynchronous\02\demos\Windows\Start_Here\StockAnalyzer.Core\obj\Debug\net6.0\StockAnalyzer.Core.csproj.CoreCompileInputs.cache
+C:\Users\training.3\Downloads\Asynchronous\02\demos\Windows\Start_Here\StockAnalyzer.Core\obj\Debug\net6.0\StockAnalyzer.Core.sourcelink.json
+C:\Users\training.3\Downloads\Asynchronous\02\demos\Windows\Start_Here\StockAnalyzer.Core\obj\Debug\net6.0\StockAnalyzer.Core.dll
+C:\Users\training.3\Downloads\Asynchronous\02\demos\Windows\Start_Here\StockAnalyzer.Core\obj\Debug\net6.0\refint\StockAnalyzer.Core.dll
+C:\Users\training.3\Downloads\Asynchronous\02\demos\Windows\Start_Here\StockAnalyzer.Core\obj\Debug\net6.0\StockAnalyzer.Core.pdb
+C:\Users\training.3\Downloads\Asynchronous\02\demos\Windows\Start_Here\StockAnalyzer.Core\obj\Debug\net6.0\ref\StockAnalyzer.Core.dll
